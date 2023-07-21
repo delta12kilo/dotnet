@@ -4,38 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9dbcfa1f890ebb8f",
+        "id": "60ee2f6f9d49fdf8",
         "type": "tabs",
         "children": [
           {
-            "id": "540f1476963f3880",
+            "id": "5f3327eee7ce227f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create New project.md",
+                "file": "dotnet-notes/ASP.NET core MVC.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fdec8303abd0bf9d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "dotnet-notes/ASP.NET core MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "dotnet-notes/ASP.NET core MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "dotnet-notes/ASP.NET core MVC.md"
               }
             }
           }
@@ -162,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdec8303abd0bf9d",
+  "active": "90fd17b70b3f76cd",
   "lastOpenFiles": [
+    "ASP.NET core MVC 1.md",
+    "dotnet-notes/ASP.NET core MVC.md",
+    "dotnet-notes",
+    "dotnet-notes/Create New project.md",
+    "dotnet-notes/Dependency Injection.md",
     "Untitled.canvas",
     "brand new.md",
-    "Create New project.md",
-    "Dependency Injection.md",
-    "ASP.NET core MVC.md",
     "Create New project, test.md",
-    "Pasted image 20230720104353.png",
+    "dotnet-notes/Pasted image 20230720104353.png",
     "Untitled 1.md",
     "Pasted image 20230720104305.png",
-    "Pasted image 20230720104814.png",
+    "dotnet-notes/Pasted image 20230720104814.png",
     "tes.md"
   ]
 }

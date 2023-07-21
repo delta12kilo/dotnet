@@ -3,4 +3,3 @@ To add new package Goto :
 		 <ItemGroup>
 				<PackageReference Include="package.name" />
 		</ItemGroup> 
-[[new]] [[brand new]]
