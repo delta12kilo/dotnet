@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BullkyBook",
+    "\\BullkyBook\\BullkyBookWeb"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\BullkyBook\\BullkyBook.sln",
   "PreviewInSolutionExplorer": false
 }

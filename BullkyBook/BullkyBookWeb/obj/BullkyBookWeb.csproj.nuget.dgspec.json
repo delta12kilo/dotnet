@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d3kumar\\Desktop\\dotnet\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj": {}
+    "D:\\project\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d3kumar\\Desktop\\dotnet\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj": {
+    "D:\\project\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d3kumar\\Desktop\\dotnet\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj",
+        "projectUniqueName": "D:\\project\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj",
         "projectName": "BullkyBookWeb",
-        "projectPath": "C:\\Users\\d3kumar\\Desktop\\dotnet\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj",
-        "packagesPath": "C:\\Users\\d3kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d3kumar\\Desktop\\dotnet\\BullkyBook\\BullkyBookWeb\\obj\\",
+        "projectPath": "D:\\project\\BullkyBook\\BullkyBookWeb\\BullkyBookWeb.csproj",
+        "packagesPath": "C:\\Users\\dk904\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\BullkyBook\\BullkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\d3kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dk904\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,34 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "(, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
